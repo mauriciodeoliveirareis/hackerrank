@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CountingValleysTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-05-17T11:03:07" hostname="ALLSAFETUBE.workdayinternal.com" time="0.03">
+  <properties/>
+  <testcase name="downDownUpUpShouldReturnOneValley()" classname="CountingValleysTest" time="0.018"/>
+  <testcase name="emptyStringShouldReturnZero()" classname="CountingValleysTest" time="0.001"/>
+  <testcase name="downUpDownUpShouldReturnTwoValley()" classname="CountingValleysTest" time="0.0"/>
+  <testcase name="upDownShouldReturnZeroValley()" classname="CountingValleysTest" time="0.001"/>
+  <testcase name="downUpShouldReturnOneValley()" classname="CountingValleysTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
